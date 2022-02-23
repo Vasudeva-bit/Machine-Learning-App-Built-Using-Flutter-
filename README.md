@@ -1,2 +1,2 @@
 # Info-Site-Covid
-Informative website on symptoms, tracking of Covid-19
+Informative website on symptoms, tracking techniques of Covid-19. 
